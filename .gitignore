@@ -1,5 +1,5 @@
 ﻿node_modules/
-Reports/
+Reports/*.html
 .env
 
 dmoney-transaction-api/node_modules/
