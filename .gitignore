@@ -1,0 +1,9 @@
+﻿node_modules/
+Reports/
+.env
+
+dmoney-transaction-api/node_modules/
+dmoney-transaction-api/.env
+
+dmoney-web-react/node_modules/
+dmoney-web-react/.env
