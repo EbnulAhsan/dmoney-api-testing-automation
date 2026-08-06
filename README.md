@@ -104,7 +104,6 @@ The collection was executed using the `htmlextra` reporter, producing a visual d
 ![Newman Run Dashboard](./Reports/newman-report.png)
 
 *(Full interactive HTML report available at `./Reports/Dmoney-Report.html` after running the collection locally.)*
-
 ---
 
 ## Known Issues
